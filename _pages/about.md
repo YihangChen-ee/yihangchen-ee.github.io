@@ -32,6 +32,7 @@ If you are interested in my work, please contact me via *<yhchen.ee@sjtu.edu.cn>
 
 
 # 🔥 News
+- *2026*: &nbsp;🎉🎉 1 AAAI Oral is accepted! 
 - *2025*: &nbsp;🔥🔥 I will join NVIDIA Research in Santa Clara, CA, as a Research Intern in May 2025! See you there!
 - *2025*: &nbsp;✈️✈️ I will attend ICLR conference in Singapore in April. Looking forward to seeing old/new friends! 
 - *2025*: &nbsp;🎉🎉 1 ICLR, 1 TPAMI is accepted! 
@@ -43,14 +44,14 @@ If you are interested in my work, please contact me via *<yhchen.ee@sjtu.edu.cn>
 
 ## 📦 3D Representation & Compression
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV 2025, preprint</div><img src='images/paper_pcgs_teaser.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026, Oral</div><img src='images/paper_pcgs_teaser.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <font size="3.5"><b>PCGS: Progressive Compression of 3D Gaussian Splatting</b></font>
 
 <p style="margin: -1px 0;"><span style="font-weight: bold;"><u>Yihang Chen</u></span>*, <a href="https://scholar.google.com/citations?user=fAIEYrEAAAAJ&hl=zh-CN&oi=ao" target="_blank">Mengyao Li</a>*, <a href="https://qianyiwu.github.io" target="_blank">Qianyi Wu</a>, <a href="https://weiyaolin.github.io" target="_blank">Weiyao Lin</a>, <a href="https://sites.google.com/site/mehrtashharandi/" target="_blank">Mehrtash Harandi</a>, <a href="http://jianfei-cai.github.io" target="_blank">Jianfei Cai</a></p>
 
-<em><b>ARXIV</b> 2025, preprint</em>
+<em>The 40th Annual AAAI Conference on Artificial Intelligence (<b>AAAI</b>), <b><span style="color:#e74c3c">Oral Presentation</span></b>, 2026</em>
 
 [**Arxiv**](https://arxiv.org/pdf/2503.08511) | [**Project**](https://yihangchen-ee.github.io/project_pcgs/) | [**Github**](https://github.com/YihangChen-ee/PCGS)
 - **PCGS provides a progressive compression solution for on-demand applications.** 
@@ -59,7 +60,7 @@ If you are interested in my work, please contact me via *<yhchen.ee@sjtu.edu.cn>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV 2025, preprint</div><img src='images/paper_hac++_teaser.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI</div><img src='images/paper_hac++_teaser.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <font size="3.5"><b>HAC++: Towards 100X Compression of 3D Gaussian Splatting</b></font>
@@ -155,9 +156,9 @@ If you are interested in my work, please contact me via *<yhchen.ee@sjtu.edu.cn>
 
 
 # 📖 Publications
-- <small>**<u>Y. Chen*</u>**, M. Li*, Q. Wu, W. Lin, M. Harandi, J. Cai, "PCGS: Progressive Compression of 3D Gaussian Splatting", ARXIV 2025.</small>
+- <small>**<u>Y. Chen*</u>**, M. Li*, Q. Wu, W. Lin, M. Harandi, J. Cai, "PCGS: Progressive Compression of 3D Gaussian Splatting", AAAI 2026.</small>
 - <small>**<u>Y. Chen</u>**, Q. Wu, W. Lin, M. Harandi, J. Cai, "HAC++: Towards 100X Compression of 3D Gaussian Splatting", IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2025.</small>
-- <small>T. Chen, H. Liu, Y. Wang, **<u>Y. Chen</u>**, T. He, et al, "MECD+: Unlocking Event-Level Causal Graph Discovery for Video Reasoning", ARXIV 2025.</small>
+- <small>T. Chen, H. Liu, Y. Wang, **<u>Y. Chen</u>**, T. He, et al, "MECD+: Unlocking Event-Level Causal Graph Discovery for Video Reasoning", IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2025.</small>
 - <small>**<u>Y. Chen</u>**, Q. Wu, M. Li, W. Lin, M. Harandi, J. Cai, "Fast Feedforward 3D Gaussian Splatting Compression", ICLR 2025.</small>
 - <small>T. Chen, H. Liu, T. He, **<u>Y. Chen</u>**, C. Gan, et al, "MECD: Unlocking Multi-Event Causal Discovery in Video Reasoning", NIPS 2024, Spotlight.</small>
 - <small>**<u>Y. Chen</u>**, Q. Wu, W. Lin, M. Harandi, J. Cai, "HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression", ECCV 2024.</small>
