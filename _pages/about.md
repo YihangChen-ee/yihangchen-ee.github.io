@@ -23,7 +23,7 @@ Before that, I spent 4 wonderful years studying at **[Dalian University of Techn
 My research interests include NeRF/3DGS compression, image/video compression and computer vision. Here is my [CV/Resume](https://yihangchen-ee.github.io/CV_Yihang_Chen.pdf).
 I am also happy to share my good friend Qianyi Wu's fantastic works [here](https://qianyiwu.github.io).
 
-If you are interested in my work, please contact me via *<yhchen.ee@sjtu.edu.cn>*.
+If you are interested in my work, please contact me via *<yhchendut@gmail.com>*.
 
 
 # 🎯 Research Interests
