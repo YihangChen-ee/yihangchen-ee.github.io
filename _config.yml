@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yihang Chen (陈一航)"
-description              : "Joint PhD candidate of SJTU-Monash"
+description              : "Alibaba Tongyi Lab (Z-image Team); Joint PhD candidate of SJTU-Monash"
 repository               : "yihangchen-ee.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +25,7 @@ author:
   avatar           : "images/me.png"
   bio              : "Pronoun - he/him"
   location         :
-  resume           : "https://yihangchen-ee.github.io/CV_Yihang_Chen.pdf"
+#  resume           : "https://yihangchen-ee.github.io/CV_Yihang_Chen.pdf"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=05KWkUAAAAAJ&hl=en"
