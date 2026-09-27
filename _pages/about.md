@@ -61,12 +61,17 @@ If you are interested in my work, please contact me via *<yhchendut@gmail.com>*.
   font-size: clamp(10px, 1.6vw, 17px);
   white-space: nowrap;
 }
+
 .logo-row > a:nth-child(1) img {
-  transform: scale(0.60);
+  transform: scale(0.75);
 }
 
 .logo-row > a:nth-child(2) img {
-  transform: scale(1.3);
+  transform: scale(1.2);
+}
+
+.logo-row > a:nth-child(5) img {
+  transform: scale(0.95);
 }
 </style>
 
