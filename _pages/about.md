@@ -25,14 +25,6 @@ I am also happy to share my good friend Qianyi Wu's fantastic works [here](https
 
 If you are interested in my work, please contact me via *<yhchendut@gmail.com>*.
 
-.logo-row > a:nth-child(1) img {
-  transform: scale(0.60);
-}
-
-.logo-row > a:nth-child(2) img {
-  transform: scale(1.3);
-}
-
 <style>
 .logo-row {
   display: grid;
@@ -68,6 +60,13 @@ If you are interested in my work, please contact me via *<yhchendut@gmail.com>*.
   color: #222;
   font-size: clamp(10px, 1.6vw, 17px);
   white-space: nowrap;
+}
+.logo-row > a:nth-child(1) img {
+  transform: scale(0.60);
+}
+
+.logo-row > a:nth-child(2) img {
+  transform: scale(1.3);
 }
 </style>
 
