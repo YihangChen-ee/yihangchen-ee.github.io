@@ -20,19 +20,20 @@ redirect_from:
 I am currently a joint Ph.D. candidate of **[Shanghai Jiao Tong University](https://www.sjtu.edu.cn)** and **[Monash University](https://www.monash.edu)** from [SEIEE](https://www.seiee.sjtu.edu.cn) since 2021, 
 working with [Prof. Weiyao Lin](https://weiyaolin.github.io), [Prof. Jianfei Cai](https://jianfei-cai.github.io) and [Prof. Mehrtash Harandi](https://sites.google.com/site/mehrtashharandi/).
 Before that, I spent 4 wonderful years studying at **[Dalian University of Technology](https://www.dlut.edu.cn)** as an undergraduate student since 2017 (top 5%).
-My research interests include NeRF/3DGS compression, image/video compression and computer vision. Here is my [CV/Resume](https://yihangchen-ee.github.io/CV_Yihang_Chen.pdf).
+My research interests include NeRF/3DGS compression, image/video compression and computer vision.
 I am also happy to share my good friend Qianyi Wu's fantastic works [here](https://qianyiwu.github.io).
 
 If you are interested in my work, please contact me via *<yhchendut@gmail.com>*.
 
 
 # 🎯 Research Interests
+- Current Interest: **Image & Video Generation, World Model**
 - **3D Scene Reconstruction/Volume Rendering**: Neural Radiance Field (NeRF), 3D Gaussian Splatting (3DGS), _et al._ 
 - **Compression Techniques**: 3D Representation Compression, Image/Video Compression, _et al._
 
 
 # 🔥 News
-- *2026*: &nbsp;🎉🎉 1 AAAI Oral is accepted! 
+- *2026*: &nbsp;🎉🎉 1 AAAI Oral, 1 NeurIPS is accepted! 
 - *2025*: &nbsp;🔥🔥 I will join NVIDIA Research in Santa Clara, CA, as a Research Intern in May 2025! See you there!
 - *2025*: &nbsp;✈️✈️ I will attend ICLR conference in Singapore in April. Looking forward to seeing old/new friends! 
 - *2025*: &nbsp;🎉🎉 1 ICLR, 1 TPAMI is accepted! 
