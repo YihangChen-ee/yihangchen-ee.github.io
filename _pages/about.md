@@ -25,6 +25,62 @@ I am also happy to share my good friend Qianyi Wu's fantastic works [here](https
 
 If you are interested in my work, please contact me via *<yhchendut@gmail.com>*.
 
+<style>
+.logo-row {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  align-items: center;
+  gap: clamp(10px, 3vw, 28px);
+  margin: 30px 0;
+}
+
+.logo-row > a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-width: 0;
+  text-decoration: none;
+  border: 0;
+}
+
+.logo-row img {
+  display: block;
+  width: 100%;
+  height: clamp(55px, 10vw, 110px);
+  object-fit: contain;
+}
+
+.logo-row .tongyi-logo {
+  height: clamp(38px, 7vw, 76px);
+}
+
+.logo-row .tongyi-label {
+  margin-top: 8px;
+  color: #222;
+  font-size: clamp(10px, 1.6vw, 17px);
+  white-space: nowrap;
+}
+</style>
+
+<div class="logo-row">
+  <a href="https://tongyi.aliyun.com/" aria-label="通义实验室">
+    <img class="tongyi-logo" src="images/logo/tongyi.svg" alt="通义实验室">
+    <span class="tongyi-label">通义实验室</span>
+  </a>
+  <a href="https://www.nvidia.com/" aria-label="NVIDIA">
+    <img src="images/logo/nvidia.svg" alt="NVIDIA">
+  </a>
+  <a href="https://www.bytedance.com/" aria-label="ByteDance">
+    <img src="images/logo/bytedance.svg" alt="ByteDance">
+  </a>
+  <a href="https://www.sjtu.edu.cn/" aria-label="上海交通大学">
+    <img src="images/logo/sjtu.png" alt="上海交通大学">
+  </a>
+  <a href="https://www.dlut.edu.cn/" aria-label="大连理工大学">
+    <img src="images/logo/dlut.png" alt="大连理工大学">
+  </a>
+</div>
 
 # 🎯 Research Interests
 - Current Interest: **Image & Video Generation, World Model**
@@ -41,7 +97,43 @@ If you are interested in my work, please contact me via *<yhchendut@gmail.com>*.
 - *2024*: &nbsp;🎉🎉 1 CVPR, 1 ACM TOMM, 1 ECCV, 1 NIPS are accepted! 
 
 
-# 📝 Selected Projects
+# 📝 Selected Projects ([Googl Scholar](https://scholar.google.com/citations?user=05KWkUAAAAAJ&hl=en))
+
+## 🌍 Image & Video Generation, World Model
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='https://riga2.github.io/i3dm/imgs/teaser_new.png' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<font size="3.5"><b>I3DM: Implicit 3D-aware Memory Retrieval and Injection for Consistent Video Scene Generation</b></font>
+
+<p style="margin: -1px 0;"><a href="https://riga2.github.io/" target="_blank">Jia Li</a>, <a href="https://wolfball.github.io/" target="_blank">Han Yan</a>, <span style="font-weight: bold;"><u>Yihang Chen</u></span>, Siqi Li, <a href="https://xbsong.github.io/" target="_blank">Xibin Song</a>, <a href="https://1fwang.github.io/" target="_blank">Yifu Wang</a>, <a href="https://jianfei-cai.github.io/" target="_blank">Jianfei Cai</a>, <a href="https://ttwong12.github.io/" target="_blank">Tien-Tsin Wong</a>, <a href="https://github.com/panji530" target="_blank">Pan Ji</a></p>
+
+<em>arXiv preprint, 2026</em>
+
+[**Arxiv**](https://arxiv.org/abs/2603.23413) | [**Project**](https://riga2.github.io/i3dm/) | [**Github**](https://github.com/Riga2/I3DM)
+
+- **I3DM enables consistent video scene generation through implicit 3D-aware memory retrieval and injection.**
+- **It improves revisit consistency and camera control without explicit 3D reconstruction.**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/paper_Feedforward_teaser.png' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<font size="3.5"><b>Feedforward Novel View Synthesis for Heterogeneous Cameras</b></font>
+
+<p style="margin: -1px 0;"><a href="https://openreview.net/profile?id=~Meng_Wei10" target="_blank">Meng Wei</a>, <a href="https://openreview.net/profile?id=~Cheng_Zhang18" target="_blank">Cheng Zhang</a>, <a href="https://openreview.net/profile?id=~Boying_Li1" target="_blank">Boying Li</a>, <span style="font-weight: bold;"><u>Yihang Chen</u></span>, <a href="https://openreview.net/profile?id=~Jianmin_Zheng1" target="_blank">Jianmin Zheng</a>, <a href="https://openreview.net/profile?id=~Hamid_Rezatofighi1" target="_blank">Hamid Rezatofighi</a>, <a href="https://openreview.net/profile?id=~Jianfei_Cai1" target="_blank">Jianfei Cai</a></p>
+
+<em>Neural Information Processing Systems (<b>NeurIPS</b>), 2026</em>
+
+[**Arxiv**](https://arxiv.org/abs/xxxxxx)
+
+- **A unified feedforward novel view synthesis framework for heterogeneous cameras, including perspective, fisheye, and panoramic projections.**
+- **Local raymaps and projection-aware 2D RoPE improve mixed-camera synthesis and enable zero-shot generalization to panoramic views.**
+
+</div>
+</div>
 
 ## 📦 3D Representation & Compression
 
@@ -156,14 +248,24 @@ If you are interested in my work, please contact me via *<yhchendut@gmail.com>*.
 - *2017.09 - 2021.06*, Undergraduate, Electronic Information Engineering (English Intensive). Dalian University of Technology.
 
 
-# 📖 Publications
-- <small>**<u>Y. Chen*</u>**, M. Li*, Q. Wu, W. Lin, M. Harandi, J. Cai, "PCGS: Progressive Compression of 3D Gaussian Splatting", AAAI 2026.</small>
-- <small>**<u>Y. Chen</u>**, Q. Wu, W. Lin, M. Harandi, J. Cai, "HAC++: Towards 100X Compression of 3D Gaussian Splatting", IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2025.</small>
-- <small>T. Chen, H. Liu, Y. Wang, **<u>Y. Chen</u>**, T. He, et al, "MECD+: Unlocking Event-Level Causal Graph Discovery for Video Reasoning", IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2025.</small>
-- <small>**<u>Y. Chen</u>**, Q. Wu, M. Li, W. Lin, M. Harandi, J. Cai, "Fast Feedforward 3D Gaussian Splatting Compression", ICLR 2025.</small>
-- <small>T. Chen, H. Liu, T. He, **<u>Y. Chen</u>**, C. Gan, et al, "MECD: Unlocking Multi-Event Causal Discovery in Video Reasoning", NIPS 2024, Spotlight.</small>
-- <small>**<u>Y. Chen</u>**, Q. Wu, W. Lin, M. Harandi, J. Cai, "HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression", ECCV 2024.</small>
-- <small>**<u>Y. Chen</u>**, Q. Wu, M. Harandi, J. Cai, "How Far Can We Compress Instant-NGP-Based NeRF?", CVPR 2024.</small>
-- <small>Z. Xie, Z. Ni, W. Yang, Yuang Zhang, **<u>Y. Chen</u>**, Yang Zhang, X. Ma, "A Robust Online Multi-Camera People Tracking System With Geometric Consistency and State-aware Re-ID Correction", CVPR workshop 2024.</small>
-- <small>S. Liu, W. Lin, **<u>Y. Chen</u>**, Y. Zhang, W. Dai, J. See, H. Xiong, "A Unified Framework for Jointly Compressing Visual and Semantic Data", ACM Trans. Multimedia Computing, Communications, and Applications, 2024.</small>
-- <small>**<u>Y. Chen</u>**, W. Dong, Y. Xie, "A dual realization of Chua’s chaotic oscillator using a current-controlled nonlinear resistor." 2021 IEEE 3rd International Conference on Circuits and Systems (ICCS). IEEE, 2021. [[Paper](https://ieeexplore.ieee.org/abstract/document/9697183)] (*This is my very first published paper. Most sincere appreciations to [Prof. Weijie Dong](http://faculty.dlut.edu.cn/0912345/zh_CN/index.htm)*'s guidance to this paper.)</small>
+[//]: # (# 📖 Publications)
+
+[//]: # (- <small>**<u>Y. Chen*</u>**, M. Li*, Q. Wu, W. Lin, M. Harandi, J. Cai, "PCGS: Progressive Compression of 3D Gaussian Splatting", AAAI 2026.</small>)
+
+[//]: # (- <small>**<u>Y. Chen</u>**, Q. Wu, W. Lin, M. Harandi, J. Cai, "HAC++: Towards 100X Compression of 3D Gaussian Splatting", IEEE Transactions on Pattern Analysis and Machine Intelligence &#40;TPAMI&#41; 2025.</small>)
+
+[//]: # (- <small>T. Chen, H. Liu, Y. Wang, **<u>Y. Chen</u>**, T. He, et al, "MECD+: Unlocking Event-Level Causal Graph Discovery for Video Reasoning", IEEE Transactions on Pattern Analysis and Machine Intelligence &#40;TPAMI&#41; 2025.</small>)
+
+[//]: # (- <small>**<u>Y. Chen</u>**, Q. Wu, M. Li, W. Lin, M. Harandi, J. Cai, "Fast Feedforward 3D Gaussian Splatting Compression", ICLR 2025.</small>)
+
+[//]: # (- <small>T. Chen, H. Liu, T. He, **<u>Y. Chen</u>**, C. Gan, et al, "MECD: Unlocking Multi-Event Causal Discovery in Video Reasoning", NIPS 2024, Spotlight.</small>)
+
+[//]: # (- <small>**<u>Y. Chen</u>**, Q. Wu, W. Lin, M. Harandi, J. Cai, "HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression", ECCV 2024.</small>)
+
+[//]: # (- <small>**<u>Y. Chen</u>**, Q. Wu, M. Harandi, J. Cai, "How Far Can We Compress Instant-NGP-Based NeRF?", CVPR 2024.</small>)
+
+[//]: # (- <small>Z. Xie, Z. Ni, W. Yang, Yuang Zhang, **<u>Y. Chen</u>**, Yang Zhang, X. Ma, "A Robust Online Multi-Camera People Tracking System With Geometric Consistency and State-aware Re-ID Correction", CVPR workshop 2024.</small>)
+
+[//]: # (- <small>S. Liu, W. Lin, **<u>Y. Chen</u>**, Y. Zhang, W. Dai, J. See, H. Xiong, "A Unified Framework for Jointly Compressing Visual and Semantic Data", ACM Trans. Multimedia Computing, Communications, and Applications, 2024.</small>)
+
+[//]: # (- <small>**<u>Y. Chen</u>**, W. Dong, Y. Xie, "A dual realization of Chua’s chaotic oscillator using a current-controlled nonlinear resistor." 2021 IEEE 3rd International Conference on Circuits and Systems &#40;ICCS&#41;. IEEE, 2021. [[Paper]&#40;https://ieeexplore.ieee.org/abstract/document/9697183&#41;] &#40;*This is my very first published paper. Most sincere appreciations to [Prof. Weijie Dong]&#40;http://faculty.dlut.edu.cn/0912345/zh_CN/index.htm&#41;*'s guidance to this paper.&#41;</small>)
