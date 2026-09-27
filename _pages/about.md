@@ -65,8 +65,7 @@ If you are interested in my work, please contact me via *<yhchendut@gmail.com>*.
 
 <div class="logo-row">
   <a href="https://tongyi.aliyun.com/" aria-label="通义实验室">
-    <img class="tongyi-logo" src="images/logo/tongyi.svg" alt="通义实验室">
-    <span class="tongyi-label">通义实验室</span>
+    <img src="images/logo/tongyi.svg" alt="通义实验室">
   </a>
   <a href="https://www.nvidia.com/" aria-label="NVIDIA">
     <img src="images/logo/nvidia.svg" alt="NVIDIA">
