@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a joint Ph.D. candidate of **[Shanghai Jiao Tong University](https://www.sjtu.edu.cn)** and **[Monash University](https://www.monash.edu)** from [SEIEE](https://www.seiee.sjtu.edu.cn) since 2021, 
+I am a researcher at Alibaba Tongyi Lab. Prior to that, I obtained my Ph.D. degree from **[Shanghai Jiao Tong University](https://www.sjtu.edu.cn)** and **[Monash University](https://www.monash.edu)** in 2026, 
 working with [Prof. Weiyao Lin](https://weiyaolin.github.io), [Prof. Jianfei Cai](https://jianfei-cai.github.io) and [Prof. Mehrtash Harandi](https://sites.google.com/site/mehrtashharandi/).
 Before that, I spent 4 wonderful years studying at **[Dalian University of Technology](https://www.dlut.edu.cn)** as an undergraduate student since 2017 (top 5%).
-My research interests include NeRF/3DGS compression, image/video compression and computer vision.
+My research interests include image/video generation, world models, NeRF/3DGS, image/video compression.
 I am also happy to share my good friend Qianyi Wu's fantastic works [here](https://qianyiwu.github.io).
 
 If you are interested in my work, please contact me via *<yhchendut@gmail.com>*.
