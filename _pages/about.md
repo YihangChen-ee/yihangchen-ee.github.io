@@ -136,8 +136,7 @@ If you are interested in my work, please contact me via *<yhchendut@gmail.com>*.
 
 <font size="3.5"><b>Feedforward Novel View Synthesis for Heterogeneous Cameras</b></font>
 
-<p style="margin: -1px 0;"><a href="https://openreview.net/profile?id=~Meng_Wei10" target="_blank">Meng Wei</a>, <a href="https://openreview.net/profile?id=~Cheng_Zhang18" target="_blank">Cheng Zhang</a>, <a href="https://openreview.net/profile?id=~Boying_Li1" target="_blank">Boying Li</a>, <span style="font-weight: bold;"><u>Yihang Chen</u></span>, <a href="https://openreview.net/profile?id=~Jianmin_Zheng1" target="_blank">Jianmin Zheng</a>, <a href="https://openreview.net/profile?id=~Hamid_Rezatofighi1" target="_blank">Hamid Rezatofighi</a>, <a href="https://openreview.net/profile?id=~Jianfei_Cai1" target="_blank">Jianfei Cai</a></p>
-
+<p style="margin: -1px 0;">Meng Wei, <a href="https://chengzhag.github.io/" target="_blank">Cheng Zhang</a>, <a href="https://leeby68.github.io/" target="_blank">Boying Li</a>, <span style="font-weight: bold;"><u>Yihang Chen</u></span>, <a href="https://personal.ntu.edu.sg/asjmzheng/" target="_blank">Jianmin Zheng</a>, <a href="https://research.monash.edu/en/persons/hamid-rezatofighi/" target="_blank">Hamid Rezatofighi</a>, <a href="https://jianfei-cai.github.io/" target="_blank">Jianfei Cai</a></p>
 <em>Neural Information Processing Systems (<b>NeurIPS</b>), 2026</em>
 
 [**Arxiv**](https://arxiv.org/abs/xxxxxx)
@@ -149,6 +148,22 @@ If you are interested in my work, please contact me via *<yhchendut@gmail.com>*.
 </div>
 
 ## 📦 3D Representation & Compression
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='https://arxiv.org/html/2609.33330v1/pipeline.png' alt="FeCoSplat compression pipeline" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<font size="3.5"><b>FeCoSplat: Feedback-Guided Compression for Feed-Forward 3D Gaussian Splatting</b></font>
+
+<p style="margin: -1px 0;">Yuxuan Li, <span style="font-weight: bold;"><u>Yihang Chen</u></span>, Yufeng Zhang, <a href="https://jianfei-cai.github.io/" target="_blank">Jianfei Cai</a>, <a href="https://weiyaolin.github.io/" target="_blank">Weiyao Lin</a></p>
+
+<em>arXiv preprint, 2026</em>
+
+[**Arxiv**](https://arxiv.org/pdf/2609.33330)
+- **FeCoSplat compresses intermediate features of feed-forward 3DGS through a feedback-guided two-stage framework.**
+- **It improves rate–distortion performance, especially at low bitrates, with only 3.45M parameters for receiver-side Gaussian reconstruction.**
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026, Oral</div><img src='images/paper_pcgs_teaser.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
