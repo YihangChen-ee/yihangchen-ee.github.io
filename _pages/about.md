@@ -87,6 +87,9 @@ If you are interested in my work, please contact me via *<yhchendut@gmail.com>*.
   <a href="https://www.bytedance.com/" aria-label="ByteDance">
     <img src="images/logo/bytedance.svg" alt="ByteDance">
   </a>
+  <a href="https://www.monash.edu/" aria-label="Monash">
+    <img src="images/logo/monash.png" alt="Monash">
+  </a>
   <a href="https://www.sjtu.edu.cn/" aria-label="上海交通大学">
     <img src="images/logo/sjtu.png" alt="上海交通大学">
   </a>
