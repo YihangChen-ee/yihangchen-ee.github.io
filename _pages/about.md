@@ -19,7 +19,7 @@ redirect_from:
 
 I am a researcher at Alibaba Tongyi Lab. Prior to that, I obtained my Ph.D. degree from **[Shanghai Jiao Tong University](https://www.sjtu.edu.cn)** and **[Monash University](https://www.monash.edu)** in 2026, 
 working with [Prof. Weiyao Lin](https://weiyaolin.github.io), [Prof. Jianfei Cai](https://jianfei-cai.github.io) and [Prof. Mehrtash Harandi](https://sites.google.com/site/mehrtashharandi/).
-Before that, I spent 4 wonderful years studying at **[Dalian University of Technology](https://www.dlut.edu.cn)** as an undergraduate student since 2017 (top 5%).
+Before that, I graduated from **[Dalian University of Technology](https://www.dlut.edu.cn)** as an undergraduate student in 2021 (top 5%).
 My research interests include image/video generation, world models, NeRF/3DGS, image/video compression.
 I am also happy to share my good friend Qianyi Wu's fantastic works [here](https://qianyiwu.github.io).
 
@@ -28,7 +28,7 @@ If you are interested in my work, please contact me via *<yhchendut@gmail.com>*.
 <style>
 .logo-row {
   display: grid;
-  grid-template-columns: repeat(5, minmax(0, 1fr));
+  grid-template-columns: repeat(6, minmax(0, 1fr));
   align-items: center;
   gap: clamp(10px, 3vw, 28px);
   margin: 30px 0;
@@ -113,7 +113,7 @@ If you are interested in my work, please contact me via *<yhchendut@gmail.com>*.
 - *2024*: &nbsp;🎉🎉 1 CVPR, 1 ACM TOMM, 1 ECCV, 1 NIPS are accepted! 
 
 
-# 📝 Selected Projects ([Googl Scholar](https://scholar.google.com/citations?user=05KWkUAAAAAJ&hl=en))
+# 📝 Selected Projects ([Google Scholar](https://scholar.google.com/citations?user=05KWkUAAAAAJ&hl=en))
 
 ## 🌍 Image & Video Generation, World Model
 
@@ -179,7 +179,7 @@ If you are interested in my work, please contact me via *<yhchendut@gmail.com>*.
 
 [**Arxiv**](https://arxiv.org/pdf/2503.08511) | [**Project**](https://yihangchen-ee.github.io/project_pcgs/) | [**Github**](https://github.com/YihangChen-ee/PCGS)
 - **PCGS provides a progressive compression solution for on-demand applications.** 
-- **It enables reuse of existing bitstreams for enhenced fidelity when dynamic bandwidth or diversion storage occurs.** 
+- **It enables reuse of existing bitstreams for enhanced fidelity when dynamic bandwidth or diversion storage occurs.** 
 </div>
 </div>
 
