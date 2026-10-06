@@ -69,10 +69,10 @@ If you are interested in my work, please contact me via *<yhchendut@gmail.com>*.
 .logo-row > a:nth-child(2) img {
   transform: scale(1.2);
 }
-.logo-row > a:nth-child(4) img {
+.logo-row > a:nth-child(5) img {
   transform: scale(1.02);
 }
-.logo-row > a:nth-child(5) img {
+.logo-row > a:nth-child(6) img {
   transform: scale(0.93);
 }
 </style>
